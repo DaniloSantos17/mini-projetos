@@ -1,2 +1,2 @@
-# 01-interactive-rating
+# Mini-projetos
  Projetos criados para treinar html/css e javascript.
